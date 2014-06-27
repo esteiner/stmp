@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Datamodel
+Bundle-SymbolicName: shared.datamodel
+Bundle-Version: 1.1
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Export-Package: shared.datamodel;version="1.1.0"
