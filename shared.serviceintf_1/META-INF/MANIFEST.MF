@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Serviceintf
+Bundle-SymbolicName: shared.serviceintf
+Bundle-Version: 1.1
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Import-Package: shared.datamodel;version="[1.0.0,2.0.0)"
+Export-Package: shared.serviceintf;version="1.1.0";uses:="shared.datamodel"

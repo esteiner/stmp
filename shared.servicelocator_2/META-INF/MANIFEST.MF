@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Servicelocator
+Bundle-SymbolicName: shared.servicelocator
+Bundle-Version: 1.2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Import-Package: shared.datamodel;version="[1.0.0,2.0.0)",
+ shared.serviceintf;version="[1.0.0,2.0.0)"
+Service-Component: component.xml
