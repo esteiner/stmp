@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: FrontendA
+Bundle-SymbolicName: frontendA
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Require-Bundle: shared.serviceintf;bundle-version="[1.1.0,1.1.1)",
+ shared.datamodel;bundle-version="[1.1.0,1.1.1)"
+Bundle-Activator: frontendA.ActivatorA
+Import-Package: org.osgi.framework;version="1.7.0"

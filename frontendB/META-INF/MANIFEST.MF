@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: FrontendB
+Bundle-SymbolicName: frontendB
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Require-Bundle: shared.datamodel;bundle-version="[1.2.0,1.2.1)",
+ shared.serviceintf;bundle-version="[1.2.0,1.2.1)"
